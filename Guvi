@@ -1,0 +1,5 @@
+pwd
+cd ~/home
+touch demo.txt
+chmod -rwx -u
+chmod -rw -g
